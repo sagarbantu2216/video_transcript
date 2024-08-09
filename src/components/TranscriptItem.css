@@ -1,0 +1,17 @@
+.transcript-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.speaker-name {
+    color: #2c3e50;
+    margin-right: 10px;
+}
+
+.spoken-text {
+    display: inline;
+    color: #34495e;
+}
